@@ -48,3 +48,7 @@ Added Codes (press c to input codes)
 Added skins (obtained from codes, press s to change skin)
 
 looc_edoc: edoc siht esu
+
+UPDATE 1.21
+
+edited acheivements and the acheivement popout
