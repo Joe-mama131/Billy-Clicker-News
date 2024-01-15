@@ -25,11 +25,19 @@ Christmas has ended. Happy New Year!
 UPDATE 1.12
 
 Added better numbers
+
 Added a few more textures
+
 Removed the monster under Billy's bed
+
 UPDATE 1.2
+
 Changelog:
+
 MAJOR ADDITIONS
+
 Added Codes (press c to input codes)
+
 Added skins (obtained from codes, press s to change skin)
+
 looc_edoc: edoc siht esu
