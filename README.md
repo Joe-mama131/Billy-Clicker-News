@@ -54,4 +54,8 @@ UPDATE 1.21
 edited acheivements and the acheivement popout
 
 fixed a bug where the achievement popout would be crazy O_O
+UPDATE 1.3
+Added saving + loading
+Added more codes
+   
 
