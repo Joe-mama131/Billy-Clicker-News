@@ -55,10 +55,13 @@ edited acheivements and the acheivement popout
 
 fixed a bug where the achievement popout would be crazy O_O
 UPDATE 1.3
+
 Added saving + loading
+
 Added more codes
 
 UPDATE 1.31
+
 you can now hide the saving/loading buttons! press q to hide/show
    
 
