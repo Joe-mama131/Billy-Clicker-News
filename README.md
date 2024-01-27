@@ -64,5 +64,9 @@ Added more codes
 UPDATE 1.31
 
 you can now hide the saving/loading buttons! press q to hide/show
+
+# EXTRAS
+
+Check other games i have made for codes!
    
 
