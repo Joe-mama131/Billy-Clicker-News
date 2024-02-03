@@ -65,6 +65,18 @@ UPDATE 1.31
 
 you can now hide the saving/loading buttons! press q to hide/show
 
+UPDATE 1.4
+
+Added music changer
+
+Added more codes
+
+Added worlds (obtain 5 rebirths for the next world. Each world gives you starter clicks each rebirth and there are currently 20 to collect.)
+
+Added Thumbnail
+
+Replaced the no music setting with the no effects setting
+
 # EXTRAS
 
 Check other games i have made for codes!
