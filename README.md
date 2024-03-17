@@ -1,7 +1,10 @@
 # Billy Clicker News
 Welcome to billy clicker news, this is where i post updates,announcements,and Sneak Peeks!
+
 Please let me know about glitches and things to add.
+
 The project: https://scratch.mit.edu/projects/929633844/
+
 # Updates:
 UPDATE 1.0
 
@@ -80,5 +83,7 @@ Replaced the no music setting with the no effects setting
 # EXTRAS
 
 Check other games i have made for codes!
+
+Mobile Version: https://scratch.mit.edu/projects/982346253/
    
 
