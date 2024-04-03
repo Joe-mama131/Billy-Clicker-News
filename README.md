@@ -102,12 +102,27 @@ Changed the music player buttons
 
 BUG FIXES:
 
-A few idk
+Just a few minor code changes :)
 
 # EXTRAS
 
 Check other games I have made for codes!
 
 Mobile Version: https://scratch.mit.edu/projects/982346253/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Its RoboClicker
    
 
