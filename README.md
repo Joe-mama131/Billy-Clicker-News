@@ -1,5 +1,5 @@
 # Billy Clicker News
-Welcome to billy clicker news, this is where i post updates,announcements,and Sneak Peeks!
+Welcome to Billy Clicker News, where I post updates, announcements, and Sneak Peeks!
 
 Please let me know about glitches and things to add.
 
@@ -34,7 +34,11 @@ Christmas has ended. Happy New Year!
 
 UPDATE 1.12
 
+MAJOR CHANGES
+
 Added better numbers
+
+MINOR CHANGES
 
 Added a few more textures
 
@@ -54,11 +58,13 @@ looc_edoc: edoc siht esu
 
 UPDATE 1.21
 
-edited acheivements and the acheivement popout
+edited achievements and the achievement popout
 
 fixed a bug where the achievement popout would be crazy O_O
 
 UPDATE 1.3
+
+MAJOR CHANGES
 
 Added saving + loading
 
@@ -66,23 +72,41 @@ Added more codes
 
 UPDATE 1.31
 
-you can now hide the saving/loading buttons! press q to hide/show
+MINOR CHANGES
+
+you can now hide the saving/loading buttons! Press Q to hide/show
 
 UPDATE 1.4
 
-Added music changer
+MAJOR CHANGES
+
+Added music player
 
 Added more codes
 
-Added worlds (obtain 5 rebirths for the next world. Each world gives you starter clicks each rebirth and there are currently 20 to collect.)
+Added worlds (obtain 5 rebirths for the next world. Each world gives you starter clicks for each rebirth and there are currently 20 to collect.)
 
 Added Thumbnail
 
+MINOR CHANGES
+
 Replaced the no music setting with the no effects setting
+
+Update 1.41
+
+MAJOR CHANGES:
+
+Added a lag reducer (turns off boost buttons)
+
+Changed the music player buttons
+
+BUG FIXES:
+
+A few idk
 
 # EXTRAS
 
-Check other games i have made for codes!
+Check other games I have made for codes!
 
 Mobile Version: https://scratch.mit.edu/projects/982346253/
    
