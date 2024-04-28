@@ -92,7 +92,7 @@ MINOR CHANGES
 
 Replaced the no music setting with the no effects setting
 
-Update 1.41
+UPDATE 1.41
 
 MAJOR CHANGES:
 
@@ -103,6 +103,20 @@ Changed the music player buttons
 BUG FIXES:
 
 Just a few minor code changes :)
+
+UPDATE 1.5
+
+MAJOR CHANGES
+
+Added the vault (enter a secret code to unlock)
+
+Added minigames
+
+Added a reset button (resets your progress incase you are stuck, press "Z")
+
+BUG FIXES:
+
+More code changes
 
 # EXTRAS
 
