@@ -114,6 +114,10 @@ Added minigames
 
 Added a reset button (resets your progress incase you are stuck, press "Z")
 
+Edited the thumbnail to add a more unique cursor
+
+
+
 BUG FIXES:
 
 More code changes
