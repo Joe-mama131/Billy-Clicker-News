@@ -6,6 +6,10 @@ Please let me know about glitches and things to add.
 The project: https://scratch.mit.edu/projects/929633844/
 
 # Updates:
+
+![image](https://github.com/Joe-mama131/Billy-Clicker-News/assets/156559816/29c93b10-4515-4bb6-855b-df521622e596)
+
+
 UPDATE 1.0
 
 added billy clicker
@@ -122,7 +126,12 @@ BUG FIXES:
 
 More code changes
 
+Fixed codes (they got deleted lol)
+
 # EXTRAS
+
+![image](https://github.com/Joe-mama131/Billy-Clicker-News/assets/156559816/0074284d-68b4-4e5b-807c-54c94c87faa0)
+
 
 Check other games I have made for codes!
 
