@@ -128,6 +128,20 @@ More code changes
 
 Fixed codes (they got deleted lol)
 
+UPDATE 1.6
+
+MAJOR CHANGES
+
+Made yet another texture update
+
+Added more codes
+
+Removed background changes when moving to a new world (was a hassle)
+
+BUG FIXES
+
+random patches
+
 # EXTRAS
 
 ![image](https://github.com/Joe-mama131/Billy-Clicker-News/assets/156559816/0074284d-68b4-4e5b-807c-54c94c87faa0)
